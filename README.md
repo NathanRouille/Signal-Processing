@@ -1,4 +1,4 @@
-# Signal Processing: Practical Notebooks
+# Signal Processing: Practical Notebooks 
 
 This repository contains two distinct lab works on signal processing. Each lab addresses a specific problem and combines theoretical understanding with practical implementation. Below is a summary of the content and skills applied in each lab.
 
